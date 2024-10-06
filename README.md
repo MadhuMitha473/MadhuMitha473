@@ -1,4 +1,4 @@
-   ## 👩‍💻 Hi, I’m Madhumitha!
+   ###  Hi, I’m Madhumitha!
  
  - 🎓 I am a **Computer Science** graduate.
  - 🔍 **Passionate about turning data into insights** . 
