@@ -1,7 +1,7 @@
  # Hello, I'm Madhumitha! 👋
  
- - 🎓 I am a **Computer Science** graduated.
- - ❤️ **Passionate about data analysis** and storytelling through data. 
+ - 🎓 I am a **Computer Science** graduate.
+ - 🔍 **Passionate about turning data into insights** . 
  - 📚 **Currently learning** Python, SQL, MySQL, and Power BI.
   
 
